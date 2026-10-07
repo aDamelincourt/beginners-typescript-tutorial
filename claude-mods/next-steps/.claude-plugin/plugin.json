@@ -1,0 +1,6 @@
+{
+  "name": "next-steps",
+  "version": "0.1.0",
+  "description": "Après chaque réponse, propose 3 prochaines étapes en boutons cliquables qui s'envoient comme un prompt tapé.",
+  "types": "./types/index.d.ts"
+}

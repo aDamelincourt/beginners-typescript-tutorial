@@ -1,0 +1,5 @@
+{
+  "name": "adamelincourt-mods",
+  "owner": { "name": "aDamelincourt" },
+  "plugins": [{ "name": "next-steps", "source": "./claude-mods/next-steps" }]
+}
