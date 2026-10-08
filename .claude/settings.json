@@ -1,7 +1,8 @@
 {
   "enabledPlugins": {
     "task-progress@adamelincourt-mods": true,
-    "next-steps@adamelincourt-mods": true
+    "next-steps@adamelincourt-mods": true,
+    "trash-guard@adamelincourt-mods": true
   },
   "extraKnownMarketplaces": {
     "adamelincourt-mods": {
