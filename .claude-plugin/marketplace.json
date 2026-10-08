@@ -11,6 +11,10 @@
     {
       "name": "trash-guard",
       "source": "./claude-mods/trash-guard"
+    },
+    {
+      "name": "task-progress",
+      "source": "./claude-mods/task-progress"
     }
   ]
 }

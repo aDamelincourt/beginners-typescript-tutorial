@@ -1,0 +1,6 @@
+{
+  "name": "task-progress",
+  "version": "0.1.0",
+  "description": "Barre de progression des tâches en plusieurs étapes : étapes faites sur le total, étape en cours et temps écoulé.",
+  "types": "./types/index.d.ts"
+}
