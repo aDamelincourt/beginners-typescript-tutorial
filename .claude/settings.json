@@ -1,4 +1,8 @@
 {
+  "enabledPlugins": {
+    "task-progress@adamelincourt-mods": true,
+    "next-steps@adamelincourt-mods": true
+  },
   "extraKnownMarketplaces": {
     "adamelincourt-mods": {
       "source": {
@@ -7,8 +11,5 @@
         "ref": "claude/claude-code-mod-suggestions-cmhkjl"
       }
     }
-  },
-  "enabledPlugins": {
-    "task-progress@adamelincourt-mods": true
   }
 }
