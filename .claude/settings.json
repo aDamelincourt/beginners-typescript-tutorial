@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "adamelincourt-mods": {
+      "source": {
+        "source": "github",
+        "repo": "aDamelincourt/beginners-typescript-tutorial",
+        "ref": "claude/claude-code-mod-suggestions-cmhkjl"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "task-progress@adamelincourt-mods": true
+  }
+}
