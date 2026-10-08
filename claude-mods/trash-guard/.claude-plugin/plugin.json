@@ -1,0 +1,6 @@
+{
+  "name": "trash-guard",
+  "version": "0.1.0",
+  "description": "Les rm, rmdir et unlink de Claude déplacent vers la corbeille du système au lieu d'effacer, et listent ce qui a été déplacé.",
+  "types": "./types/index.d.ts"
+}

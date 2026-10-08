@@ -1,5 +1,16 @@
 {
   "name": "adamelincourt-mods",
-  "owner": { "name": "aDamelincourt" },
-  "plugins": [{ "name": "next-steps", "source": "./claude-mods/next-steps" }]
+  "owner": {
+    "name": "aDamelincourt"
+  },
+  "plugins": [
+    {
+      "name": "next-steps",
+      "source": "./claude-mods/next-steps"
+    },
+    {
+      "name": "trash-guard",
+      "source": "./claude-mods/trash-guard"
+    }
+  ]
 }
